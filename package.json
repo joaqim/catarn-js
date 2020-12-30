@@ -15,6 +15,12 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "@bit/recharts.recharts.bar": "^1.6.2",
+    "@bit/recharts.recharts.cartesian-grid": "^1.6.2",
+    "@bit/recharts.recharts.composed-chart": "^1.6.2",
+    "@bit/recharts.recharts.responsive-container": "^1.6.2",
+    "@bit/recharts.recharts.x-axis": "^1.6.2",
+    "@bit/recharts.recharts.y-axis": "^1.6.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "immutable": "^4.0.0-rc.12",
@@ -40,6 +46,7 @@
     "sass": "^1.26.7",
     "ts-node-dev": "^1.0.0-pre.44",
     "tslint": "^6.1.2",
+    "tslint-react-hooks": "^2.2.2",
     "typescript": "^3.9.3"
   }
 }
